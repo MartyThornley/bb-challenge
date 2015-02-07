@@ -1,4 +1,1 @@
-<?php
-
-
-echo 'Hi!';
+<h1>AwesomeTown</h1>
