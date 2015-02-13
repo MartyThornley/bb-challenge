@@ -1,0 +1,19 @@
+{
+    "name":             "martythornley/bb-challenge",
+    "description":      "Awesometown project for Beachbody Challenge.",
+    "keywords":         ["awesome"],
+    "homepage":         "http://184.72.15.217/",
+    "license":          "MIT",
+    "authors": [
+        {
+            "name":         "Marty Thornley",
+            "email":        "mthornley@gmail.com",
+            "homepage":     "http://martythornley.com",
+            "role":         "Genius"
+        }
+    ],
+	"require-dev": 
+		{ 
+			"codeclimate/php-test-reporter": "dev-master" 
+		}
+}
